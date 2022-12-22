@@ -1,0 +1,32 @@
+[
+    {
+        "productName": "White Men's Shirt",
+        "productPrice": 10,
+        "category": "Clothing",
+        "productRating": 3
+    },
+    {
+        "productName": "Blue Shirt",
+        "productPrice": 17.2,
+        "category": "Clothing",
+        "productRating": 3.5
+    },
+    {
+        "productName": "Swotch",
+        "productPrice": 55,
+        "category": "Wristwatches",
+        "productRating": 4.8
+    },
+    {
+        "productName": "Soft Leather",
+        "productPrice": 28,
+        "category": "Shoes",
+        "productRating": 5
+    },
+    {
+        "productName": "BlueJ Waist Band",
+        "productPrice": 27,
+        "category": "Others",
+        "productRating": 4.2
+    }
+]
