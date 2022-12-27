@@ -14,6 +14,7 @@
     {
         "productName": "Swotch",
         "productPrice": 55,
+        "featuredProduct": true,
         "category": "Wristwatches",
         "productRating": 4.8
     },
@@ -28,5 +29,18 @@
         "productPrice": 27,
         "category": "Others",
         "productRating": 4.2
+    },
+    {
+        "productName": "Infinix Note 5",
+        "productPrice": 91.25,
+        "featuredProduct": true,
+        "category": "Others",
+        "productRating": 3.8
+    },
+    {
+        "productName": "Maltino Shirt",
+        "productPrice": 18.2,
+        "category": "Clothing",
+        "productRating": 2.3
     }
 ]
